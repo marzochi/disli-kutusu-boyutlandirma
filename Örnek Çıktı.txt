@@ -1,0 +1,167 @@
+Toplam verim        : 0.941
+Toplam çevrim oranı : 10
+Toplam güç kayıbı   : 0.088  [KW]
+Kademe sayısı       : 2
+Dişli sayısı        : 4
+  1.Kademe için veriler
+  -----------------------------------
+     Kademe çevrim oranı         : 3.508
+     Kademe verimi               : 0.980
+     Eksenler arası mesafe (a)   : 51.749
+     Eksenler arası mesafe (a0)  : 51.875
+     Alfa açısı                  : 19.613
+     Alfa0 açısı                 : 20.000
+     Evolvent Alfa açısı (alfa)  : 0.014
+     Evolvent Alfa açısı (alfa0) : 0.015
+     Kavrama faktörü             : 1.573
+     Eksenler arası mesafe       : 51.749
+     Kaydırma tipi               : Kaydırmalı K
+     [-] Baş kısaltması          : Yapılmadı
+  2.Kademe için veriler
+  -----------------------------------
+     Kademe çevrim oranı         : 2.850
+     Kademe verimi               : 0.980
+     Eksenler arası mesafe (a)   : 69.125
+     Eksenler arası mesafe (a0)  : 69.125
+     Alfa açısı                  : 20.000
+     Alfa0 açısı                 : 20.000
+     Evolvent Alfa açısı (alfa)  : 0.379
+     Evolvent Alfa açısı (alfa0) : 0.015
+     Kavrama faktörü             : 1.586
+     Eksenler arası mesafe       : 69.125
+     Kaydırma tipi               : Sıfır kaydırmalı K-0
+     [-] Baş kısaltması          : Yapılmadı
+  1.Dişli için veriler
+  -----------------------------------
+     Diş sayısı                  : 18
+     Diş kalınlığı               : 11.427
+     Döndürme momenti            : 27.515
+     Modül                       : 1.250
+     Diş form faktörü            : 2.960
+     Profil kaydırma             : 0.30
+     Taksimat dairesi çapı (d0)  : 22.500
+     Döndürme momenti      (dg)  : 21.143
+     Baş dairesi çapı            : 25.750
+     Taban dairesi çapı          : 20.125
+     hb                          : 1.625
+     ht                          : 1.188
+     h                           : 2.812
+     1.Dişli için güvenlik hesapları
+     -----------------------------------
+     Çevresel hız                     : 0.884
+     Teğetsel kuvvet                  : 2445.819
+     Radyal kuvvet                    : 890.205
+     Yerel diş dibi kırılma ger.      : 321.761
+     Hesaplanan diş dibi kırılma ger. : 350.759
+     Diş dibi kırılma ger.            : 1.055
+     Yerel diş yanağı ger.            : 1.666
+     Hesaplanan diş yanağı ger.       : 284.493
+     Diş yüzeyi ezilme emniyet fak.   : 3.515
+     Yerel diş dibi kırılması         : 86.962
+     Hesaplanan diş dibi kırılması    : 94.800
+     Diş dibi kırılma emniyet fakt.   : 3.903
+     Yerel diş yanağı ger.            : 1.774
+     Hesaplanan diş yanağı ger.       : 244.751
+     Diş yüzeyi ezilme emniyet fakt.  : 4.086
+     [+] Dişli emniyetlidir      SHem : 4.09
+  2.Dişli için veriler
+  -----------------------------------
+     Diş sayısı                  : 65
+     Diş kalınlığı               : 11.427
+     Döndürme momenti            : 96.533
+     Modül                       : 1.250
+     Diş form faktörü            : 2.960
+     Profil kaydırma             : -0.40
+     Taksimat dairesi çapı (d0)  : 81.250
+     Döndürme momenti      (dg)  : 76.350
+     Baş dairesi çapı            : 84.500
+     Taban dairesi çapı          : 78.875
+     hb                          : 1.750
+     ht                          : 1.062
+     h                           : 2.812
+     2.Dişli için güvenlik hesapları
+     -----------------------------------
+     Çevresel hız                     : 3.191
+     Teğetsel kuvvet                  : 2376.192
+     Radyal kuvvet                    : 864.863
+     Yerel diş dibi kırılma ger.      : 86.566
+     Hesaplanan diş dibi kırılma ger. : 94.368
+     Diş dibi kırılma ger.            : 3.921
+     Yerel diş yanağı ger.            : 0.455
+     Hesaplanan diş yanağı ger.       : 77.653
+     Diş yüzeyi ezilme emniyet fak.   : 12.878
+     Yerel diş dibi kırılması         : 23.396
+     Hesaplanan diş dibi kırılması    : 25.505
+     Diş dibi kırılma emniyet fakt.   : 14.507
+     Yerel diş yanağı ger.            : 0.484
+     Hesaplanan diş yanağı ger.       : 66.805
+     Diş yüzeyi ezilme emniyet fakt.  : 14.969
+     [+] Dişli emniyetlidir      SHem : 14.97
+  3.Dişli için veriler
+  -----------------------------------
+     Diş sayısı                  : 20
+     Diş kalınlığı               : 2.894
+     Döndürme momenti            : 96.533
+     Modül                       : 1.750
+     Diş form faktörü            : 2.960
+     Profil kaydırma             : 0.20
+     Taksimat dairesi çapı (d0)  : 35.000
+     Döndürme momenti      (dg)  : 32.889
+     Baş dairesi çapı            : 39.200
+     Taban dairesi çapı          : 31.325
+     hb                          : 2.100
+     ht                          : 1.838
+     h                           : 3.938
+     3.Dişli için güvenlik hesapları
+     -----------------------------------
+     Çevresel hız                     : 1.374
+     Teğetsel kuvvet                  : 5516.159
+     Radyal kuvvet                    : 2007.718
+     Yerel diş dibi kırılma ger.      : 333.221
+     Hesaplanan diş dibi kırılma ger. : 361.347
+     Diş dibi kırılma ger.            : 1.024
+     Yerel diş yanağı ger.            : 1.629
+     Hesaplanan diş yanağı ger.       : 277.380
+     Diş yüzeyi ezilme emniyet fak.   : 3.605
+     Yerel diş dibi kırılması         : 90.060
+     Hesaplanan diş dibi kırılması    : 97.661
+     Diş dibi kırılma emniyet fakt.   : 3.789
+     Yerel diş yanağı ger.            : 1.756
+     Hesaplanan diş yanağı ger.       : 240.993
+     Diş yüzeyi ezilme emniyet fakt.  : 4.150
+     [+] Dişli emniyetlidir      SHem : 4.15
+  4.Dişli için veriler
+  -----------------------------------
+     Diş sayısı                  : 59
+     Diş kalınlığı               : 2.894
+     Döndürme momenti            : 258.973
+     Modül                       : 1.750
+     Diş form faktörü            : 2.960
+     Profil kaydırma             : -0.20
+     Taksimat dairesi çapı (d0)  : 103.250
+     Döndürme momenti      (dg)  : 97.023
+     Baş dairesi çapı            : 106.050
+     Taban dairesi çapı          : 98.175
+     hb                          : 2.100
+     ht                          : 1.838
+     h                           : 3.938
+     4.Dişli için güvenlik hesapları
+     -----------------------------------
+     Çevresel hız                     : 4.055
+     Teğetsel kuvvet                  : 5016.432
+     Radyal kuvvet                    : 1825.832
+     Yerel diş dibi kırılma ger.      : 102.723
+     Hesaplanan diş dibi kırılma ger. : 111.394
+     Diş dibi kırılma ger.            : 3.322
+     Yerel diş yanağı ger.            : 0.526
+     Hesaplanan diş yanağı ger.       : 89.667
+     Diş yüzeyi ezilme emniyet fak.   : 11.152
+     Yerel diş dibi kırılması         : 27.763
+     Hesaplanan diş dibi kırılması    : 30.106
+     Diş dibi kırılma emniyet fakt.   : 12.290
+     Yerel diş yanağı ger.            : 0.568
+     Hesaplanan diş yanağı ger.       : 77.904
+     Diş yüzeyi ezilme emniyet fakt.  : 12.836
+     [+] Dişli emniyetlidir      SHem : 12.84
+
+--> İşlemler 0.0017 s sürdü
