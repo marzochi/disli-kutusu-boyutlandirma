@@ -1,11 +1,13 @@
-Python (PyQT) ile 2 kademli dişli kutusu boyutlandırma uygulaması
+Bilgisayar programı yardımıyla dişli kutusu boyutlandırma
 ====
+Python (PyQT) ile profil kaydırmalı ve düz silindirik dişliler için 2 kademeli dişli kutusu boyutlandırma uygulamasıdır. Makine Mühendisliği bitirme tezi çalışmasıdır.
 
 Program tek sayfadan oluşmaktadır. Tüm hesapları buradan yapabilirsiniz. İşlemler iki aşamada gerçekleştirilir.
 Redüktörün çalışmasına ait bilgiler girildiğinde, dişli çarklar için uygun diş sayıları hesaplanır.
 Diş sayıları belirlendikten sonra sıfır dişli için bu diş sayılarına uygun diş forma faktörleri belirlenir.
 
 1.Aşama
+-----
 Redüktör bilgileri ve gerekli faktörler ve verim değerleri.
 Sırayla boş alanları dolduruyoruz. İlk olarak tahrik gücünü giriyoruz. Daha sonra giriş ve çıkış için istenen devir sayılarını, çalışma durumuna göre işletme faktörü ve emniyet katsayısını belirliyoruz.
 
@@ -26,7 +28,7 @@ Malzeme seçiminin ardından tekrar malzeme ile ilgili bilgileri girmeniz gerekm
  Bu kısıma kadar anlatılan değerleri tam olarak girdiğinizde, program otomatik olarak her dişlinin diş sayısını hesaplayacaktır
 
 2.Aşama
-
+----
 ![alt tag](https://github.com/marzochi/disli-kutusu-boyutlandirma/blob/master/Screenshots/6.png)
 
 Diş sayıları hesaplandıktan sonra, profil kaydırma ve buna bağlı olarak diş form faktörünü seçmelisiniz. Profil kaydırma miktarını ilk 0,0 aldıktan sonra emniyet durumuna göre sonradan değiştirmeniz etkisini görmek açısından yararlı olacaktır. Diş forma faktörü diş sayısı ve profil kaydırma miktarına göre belirlenen bir değerdir. Bunun için tablo kullanacağız. Tabloyu açmak için [Resim-4] butonuna tıklıyoruz. Açılan pencereden sırayla;
@@ -48,13 +50,15 @@ Aşağıdaki resimde bir adet emniyetli ve bir adet emniyetsiz dişli görünmek
 
 Güvenlik Hesapları butonuna tıklayarak, dişli için yapılan güvenlik hesaplarını görüntüleyebilirsiniz.
 
-Tabloya birimler eklenecek ondan sonra resmi çekilecek
 ![alt tag](https://github.com/marzochi/disli-kutusu-boyutlandirma/blob/master/Screenshots/11.png)
+
 Hız ve dinamik faktör seçimi eklenecek
 
 Temizle butonu: Temizle butonuna tıklayarak forma girilmiş tüm değerleri silebilirsiniz. Böylece her hesaplamadan sonra programı kapatıp açmak zorunda kalmazsınız.
 Kaydet butonu: Yapılan tüm hesapları Excel çalışma sayfası (xls) olarak kaydetme imkanı sunar. XLS dosyasını kaydetmeniz için açılan pencerede bir klasör seçmelisiniz.
 
-
-
-
+Gerenkenler
+----
+Python 2.7+
+PyQt4
+OS: Linux/Windows/MacOS
