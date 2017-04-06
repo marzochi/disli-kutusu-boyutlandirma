@@ -62,5 +62,13 @@ Kaydet butonu: Yapılan tüm hesapları Excel çalışma sayfası (xls) olarak k
 Gerenkenler
 ----
 Python 2.7+
+
 PyQt4
+
 OS: Linux/Windows/MacOS
+
+İndir
+----
+Windows için çalıştırılabilir halini buradan indirebilirsiniz:
+
+https://github.com/marzochi/disli-kutusu-boyutlandirma/blob/master/Files/Di%C5%9Fli%20Kutusu%20Boyutland%C4%B1rma_1.1.exe
